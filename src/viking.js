@@ -66,8 +66,6 @@ class War {
       this.saxonArmy[Math.floor(Math.random() * this.saxonArmy.length)];
     const randomViking =
       this.vikingArmyArmy[Math.floor(Math.random() * this.vikingArmy.length)];
-      receiveDamage(Saxon) {
-      } 
   }
   saxonAttack() {}
   showStatus() {}
